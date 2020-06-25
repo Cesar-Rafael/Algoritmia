@@ -1,2 +1,2 @@
 # Algoritmia
-Exercises in C
+Exercises in C of PUCP
