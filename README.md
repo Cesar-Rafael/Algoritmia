@@ -1,0 +1,2 @@
+# Algoritmia
+Exercises in C
